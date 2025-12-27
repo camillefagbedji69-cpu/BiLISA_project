@@ -10,7 +10,7 @@ Understanding the spatial overlap between carbon sequestration and water yield i
 * **Predictive Modeling:** Quantifying environmental drivers of water volume through high-confidence linear regression ($R^2 = 0.94$).
 
 ## 🛠️ Tech Stack & Methodology
-* **Language/Environment:** `R` & `GeoDa`.
+* **Language/Environment:** `R`.
 * **Geospatial Processing:** `InVEST Water Yield`, `InVEST Carbon Storage`.
 * **Spatial Statistics:** Univariate/Bivariate Moran's I, LISA Clusters.
 * **Statistical Modeling:** Linear Regression with Multicollinearity diagnostics (VIF).
@@ -34,6 +34,3 @@ Understanding the spatial overlap between carbon sequestration and water yield i
 * **Advanced Spatial Modeling:** Implementing **SAR (Spatial Autoregressive)** or **SEM (Spatial Error Models)** to further refine the regression results.
 * **Temporal Dynamics:** Analyzing the carbon-water relationship over a 20-year time series to detect climate-driven shifts.
 * **Targeted Restoration:** Using HL/LH clusters to pinpoint strategic locations for "Water-Smart" reforestation projects.
-
----
-*Quantifying the delicate balance between climate mitigation and water security.*
